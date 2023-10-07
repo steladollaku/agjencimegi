@@ -224,46 +224,7 @@ body{
 .contact-area .col-md-4 {
   text-align: center;
 }
-.contact-area i {
-  color: #333;
-}
-.contact-area h3 {
-  color: #333;
-  font-size: 18px;
-  margin-bottom: 15px;
-}
-.contact-area p {
-  color: #777;
-  margin-bottom: 30px;
-}
-.contact-area .col-md-8 {
-  padding-left: 50px;
-}
-.contact-form {
-  background-color: #fff;
-  padding: 30px;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-.contact-form .form-control {
-  margin-bottom: 20px;
-  border-radius: 0;
-}
-.contact-form textarea {
-  resize: vertical;
-}
-.contact-form button {
-  background-color: #333;
-  color: #fff;
-  padding: 10px 20px;
-  border-radius: 5px;
-  border: none;
-  font-size: 16px;
-  cursor: pointer;
-}
-.contact-form button:hover {
-  background-color: #555;
-}
+
 
 footer {
     text-align: center;
